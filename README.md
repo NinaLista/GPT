@@ -1,7 +1,9 @@
 # GPTs
 Collection of my custom ChatGPT models (GPTs) with descriptions and links.
+Updates carried out by the commercial system provider into the overall system prompt clearly affects the custom GPTs behaviour, causing misalignment to the "lighter" system prompts in each custom GPT. Worth being aware of this and various AI behaviour rules that might apply today, and remind the GPT if it doesn't seem to deliver. 
 
 Kokoelma GPT-mallejani: kuvaukset ja linkit.
+Palveluntarjoajan järjestelmäkehotteeseensa tekemät päivitykset selvästi vaikuttavat kustomoitujen GPT-chattien toimintaan siten, että toiminta saattaa alkaa poiketa siitä, mihin "kevyempi" kustomoitu järjestelmäkehote pyrkii sitä ohjaamaan. Pidettäköön tämä mielessä, samoin erilaiset AI-chattien toimintaa kulloinkin säätelevät ajankohtaiset säännöt: kustotoimtua GPT:tä voi yrittää huomauttamalla muistuttaa sen oletetusta toiminnasta (esim. "vastaa tyylillä, jota sinun on määrä käyttää").
 
 > 💡 Tip: Open links in a new tab with Ctrl+Click (Windows) or Cmd+Click (Mac).
 >
